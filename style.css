@@ -1,0 +1,83 @@
+.icon{
+    border-radius: 5px;
+}
+.own{
+    margin: 5px;
+}
+.point{
+    justify-content: end;
+}
+.search2{
+margin: 10px;
+width: 500px;
+height: 50px;
+justify-content: center;
+display: flex;
+}
+.mend{
+    border-radius: 10px;
+    margin: 20px 10px 0px 30px;
+    justify-content: center;
+}
+.womend{
+    border-radius: 10px;
+    margin: 20px 10px 0px 30px;
+    justify-content: center;
+}
+.kidsd{
+    border-radius: 10px;
+    margin: 20px 10px 0px 30px;
+    justify-content: center;
+}
+.menf{
+    border-radius: 10px;
+    margin: 20px 10px 0px 30px;
+    justify-content: center;
+}
+.womenf{
+    border-radius: 10px;
+    margin: 20px 10px 0px 30px;
+    justify-content: center;
+}
+.kidsf{
+    border-radius: 10px;
+    margin: 20px 10px 0px 30px;
+    justify-content: center;
+}
+.mena{
+    border-radius: 10px;
+    margin: 20px 10px 0px 30px;
+    justify-content: center;
+}
+.womena{
+    border-radius: 10px;
+    margin: 20px 10px 0px 30px;
+    justify-content: center;
+}
+.foot{
+display: block;
+}
+.bar{
+    padding: 20px;
+}
+.navbar1{
+    display: flex;
+    justify-content:center;
+}
+.all{
+    text-decoration: none;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* .own2{
+text-decoration: none;
+} */
+.icon1{
+    padding: 5px;
+}
+.icon2{
+    padding: 5px;
+}
+.icon3{
+    padding: 5px;
+}
